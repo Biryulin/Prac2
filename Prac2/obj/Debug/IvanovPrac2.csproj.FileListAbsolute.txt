@@ -1,0 +1,2 @@
+C:\Users\Алексей\OneDrive\Рабочий стол\IvanovPrac2-master\obj\Debug\IvanovPrac2.csproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\IvanovPrac2-master\obj\Debug\IvanovPrac2.csproj.SuggestedBindingRedirects.cache
